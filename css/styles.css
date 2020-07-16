@@ -1,0 +1,138 @@
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	border-radius: 0px;
+	background-color: rgba(0,0,0,0.8);
+}
+
+.navbar-brand{
+  font-size: 35px;
+  color: white;
+  padding-left: 25px;
+}
+
+.navbar-brand:hover{
+	color: white;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle{
+	border: 2px solid white;
+	margin-right: 25px;
+}
+
+.icon-bar{
+	background-color: white;
+}
+
+
+
+.menu-title{
+  margin-bottom: 15px;
+  text-align: center;
+  color:  #96ceb4;
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.row{
+	margin: 20px;
+}
+
+.menu-item-chicken{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: #ffeead;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+.menu-item-beef{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: #f4a688;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+.menu-item-sushi{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: #b7d7e8;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+.menu-item-chicken:hover{
+	background-color: black;
+	color: #ffeead;
+}
+.menu-item-beef:hover{
+	background-color: black;
+	color: #f4a688;
+}
+.menu-item-sushi:hover{
+	background-color:  black;
+	color: #b7d7e8;
+}
+
+.content-box-chicken{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color: #ffeead;
+	font-family: sans-serif;
+	padding: 20px;
+}
+
+.content-box-beef{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color: #f4a688;
+	font-family: sans-serif;
+	padding: 20px;
+}
+
+.content-box-sushi{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color: #b7d7e8;
+	font-family: sans-serif;
+	padding: 20px;
+}
+
+.item-title{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
